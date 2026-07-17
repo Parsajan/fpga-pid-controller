@@ -165,4 +165,4 @@ run -all
 ## Author
 
 **Parsa hoseinzadeh** — Embedded Systems & FPGA Design Engineer  
-[LinkedIn](https://linkedin.com/in/parsa_hoseinzadeh) | [GitHub](https://github.com/Parsajan)
+[LinkedIn](https://linkedin.com/in/parsa-hoseinzadeh-86a158166) | [GitHub](https://github.com/Parsajan)
